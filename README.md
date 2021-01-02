@@ -3,7 +3,7 @@ A Contact Management System is CRUD system providing way to insert,update,delete
   -In short,contact management is the practice of storing and organizing contact data so that it’s easy to access.
   -It includes the operation like insert,delete,update,search and display.In this,instead of local saving the contacts are added in database which can help in recovering            contact seven if they are deleted from phone.
  
- UI contributed by https://github.com/SushantP199
+ UI CONTRIBUTED BY https://github.com/SushantP199
   
  Following screenshots will help you understand better-
  
